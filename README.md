@@ -92,8 +92,8 @@ Follow these steps to get the project up and running on your local machine.
 ### 1. Clone the Repository
 
 ```bash
-git clone [YOUR_PROJECT_GIT_REPOSITORY_ADDRESS]
-cd [PROJECT_DIRECTORY_NAME]
+git clone https://github.com/SMILE-Lab-NJUPT/WeiboInsight.git
+cd WeiboInsight
 ```
 ### 2. Set Up a Virtual Environment (Recommended)
 - Linux/macOS:
