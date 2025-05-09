@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="images/icon.png" width="100" alt="微博爬虫 icon">
+  <img src="images/icon.png" width="200" alt="微博爬虫 icon">
 </p>
 
 <p align="center">
